@@ -26,3 +26,5 @@ let number = 25
 let stringNumber = String(number)
 console.log(stringNumber);
 
+let inrementNumber = 100 
+console.log(inrementNumber++)
